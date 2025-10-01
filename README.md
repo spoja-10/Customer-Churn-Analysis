@@ -72,6 +72,3 @@ The workflow integrates three main tools:
 - **Machine Learning**: Python (`scikit-learn`, `pandas`, `matplotlib`, `seaborn`)  
 
 ---
-
-## 📂 Project Structure  
-
